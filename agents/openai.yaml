@@ -1,0 +1,4 @@
+interface:
+  display_name: "EasyHPC Homework"
+  short_description: "Complete EasyHPC coding labs or theory PDFs, then package and submit them."
+  default_prompt: "Use EasyHPC Homework to complete an EasyHPC task end to end. On first use, request EasyHPC credentials and student profile, store them only in the private .env, then validate a fresh Cookie/session. For coding labs, download materials, implement code, run experiments, generate English figures, write a Chinese XeLaTeX report, package, upload, and verify. For theory homework, analyze each problem, write Chinese final-exam-style answers, compile PDF, package, upload, and verify."

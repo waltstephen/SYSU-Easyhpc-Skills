@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.pyc
+__pycache__/
+*.log
+*cookie*
+*session*
+*secret*
+*token*
